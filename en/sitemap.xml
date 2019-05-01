@@ -4,7 +4,7 @@
   
   <url>
     <loc>/accomplishment/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -14,6 +14,93 @@
                 rel="alternate"
                 hreflang="en"
                 href="/accomplishment/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/award/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/cccc/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/sch-yqzhao-wangkc/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ios/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhaoyiqin/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/zhaoyiqin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/zhaoyiqin/"
                 />
   </url>
   
@@ -30,38 +117,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/affective-computing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
   </url>
   
@@ -112,22 +167,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/accomplishment/pub-yqzhao-deepsp/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,19 +182,35 @@
   </url>
   
   <url>
-    <loc>/authors/zhaoyiqin/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <loc>/accomplishment/pub-yqzhao-exploringst/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accomplishment/awd-yqzhao-cccc2017/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/national/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/zhaoyiqin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/zhaoyiqin/"
-                />
+  </url>
+  
+  <url>
+    <loc>/tags/project/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/accomplishment/pro-zhaoyq-nationalutp/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accomplishment/awd-yqzhao-cccc2016/</loc>
+    <lastmod>2016-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>

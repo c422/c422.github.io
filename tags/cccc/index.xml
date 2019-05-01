@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accomplishment on C422</title>
-    <link>/accomplishment/</link>
-    <description>Recent content in Accomplishment on C422</description>
+    <title>CCCC on C422</title>
+    <link>/tags/cccc/</link>
+    <description>Recent content in CCCC on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/accomplishment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cccc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,39 +22,12 @@
     </item>
     
     <item>
-      <title>[Publication] Deep Spectrum Feature Representations for Speech Emotion Recognition</title>
-      <link>/accomplishment/pub-yqzhao-deepsp/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/accomplishment/pub-yqzhao-deepsp/</guid>
-      <description>Oral paper on ACM Multimedia 2018 ASMMC-MMAC workshop.</description>
-    </item>
-    
-    <item>
-      <title>[Publication] Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition</title>
-      <link>/accomplishment/pub-yqzhao-exploringst/</link>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/accomplishment/pub-yqzhao-exploringst/</guid>
-      <description>Oral paper on INTERSPEECH 2018.</description>
-    </item>
-    
-    <item>
       <title>[Award] National third award on 2017 China Collegiate Computing Contest (Top 6%)</title>
       <link>/accomplishment/awd-yqzhao-cccc2017/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/accomplishment/awd-yqzhao-cccc2017/</guid>
       <description>This contest is held by Zhejiang University and Apple, Inc to all students over the great China area.</description>
-    </item>
-    
-    <item>
-      <title>[Project] Depression Detection Software Based on Speech and Tune</title>
-      <link>/accomplishment/pro-zhaoyq-nationalutp/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/accomplishment/pro-zhaoyq-nationalutp/</guid>
-      <description>2017 Tianjin Province level National Undergraduate Training Programs for Innovation and Entrepreneurship.</description>
     </item>
     
     <item>
