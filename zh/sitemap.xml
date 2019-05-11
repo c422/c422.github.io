@@ -4,7 +4,7 @@
   
   <url>
     <loc>/zh/accomplishment/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,117 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/accomplishment/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/national/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/national/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/national/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/project/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/accomplishment/jiaojinlong-pro-nationalutp/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/jiaojinlong-pro-nationalutp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/jiaojinlong-pro-nationalutp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/jiaojinlong/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/jiaojinlong/"
                 />
   </url>
   
@@ -30,38 +141,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tags/affective-computing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/authors/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
                 />
   </url>
   
@@ -112,22 +191,6 @@
   </url>
   
   <url>
-    <loc>/zh/tags/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/accomplishment/pub-yqzhao-deepsp/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -159,6 +222,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/author/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/jiaojinlong/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/jiaojinlong/"
                 />
   </url>
   

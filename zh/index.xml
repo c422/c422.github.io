@@ -7,10 +7,20 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Project]  Hierachical Attention for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/jiaojinlong-pro-nationalutp/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/jiaojinlong-pro-nationalutp/</guid>
+      <description>&lt;p&gt;Introduction: Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Some Post</title>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/accomplishment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Project]  Hierachical Attention for Speech Emotion Recognition</title>
+      <link>/accomplishment/jiaojinlong-pro-nationalutp/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/jiaojinlong-pro-nationalutp/</guid>
+      <description>Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.</description>
+    </item>
     
     <item>
       <title>[Scholarship] Wang Kechang Culture and Technology Innovation Scholarship (&lt;1%)</title>
