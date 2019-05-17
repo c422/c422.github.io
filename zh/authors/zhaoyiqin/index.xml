@@ -7,18 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/zh/authors/zhaoyiqin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Some Post</title>
-      <link>/zh/post/samplepost/</link>
+      <title>[分享] 编程语言</title>
+      <link>/zh/post/keynote-20190510-zhaoyiqin/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/keynote-20190510-zhaoyiqin/</guid>
+      <description>每周分享，主题编程语言</description>
+    </item>
+    
+    <item>
+      <title>[Scholarship] Wang Kechang Culture and Technology Innovation Scholarship (&lt;1%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-sch-wangkc/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-sch-wangkc/</guid>
+      <description>Annual Wang Kechang Culture and Technology Innovation Scholarship.</description>
+    </item>
+    
+    <item>
+      <title>[Publication] Deep Spectrum Feature Representations for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/zhaoyiqin-pub-deepsp/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/post/samplepost/</guid>
-      <description>sdfgsdfgsdfsdfdsfgdfgsdgsf</description>
+      <guid>/zh/accomplishment/zhaoyiqin-pub-deepsp/</guid>
+      <description>Oral paper on ACM Multimedia 2018 ASMMC-MMAC workshop.</description>
     </item>
     
     <item>
@@ -31,13 +49,48 @@
     </item>
     
     <item>
+      <title>[Publication] Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/zhaoyiqin-pub-exploringst/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-pub-exploringst/</guid>
+      <description>Oral paper on INTERSPEECH 2018.</description>
+    </item>
+    
+    <item>
+      <title>[Award] National third award on 2017 China Collegiate Computing Contest (Top 6%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-awd-cccc2017/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-awd-cccc2017/</guid>
+      <description>This contest is held by Zhejiang University and Apple, Inc to all students over the great China area.</description>
+    </item>
+    
+    <item>
+      <title>[Project] Depression Detection Software Based on Speech and Tune</title>
+      <link>/zh/accomplishment/zhaoyiqin-pro-nationalutp/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-pro-nationalutp/</guid>
+      <description>2017 Tianjin Province level National Undergraduate Training Programs for Innovation and Entrepreneurship.</description>
+    </item>
+    
+    <item>
+      <title>[Award] National third award on 2016 China Collegiate Computing Contest (Top 10%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-awd-cccc2016/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-awd-cccc2016/</guid>
+      <description>This contest is held by Zhejiang University and Apple, Inc to all students over the great China area.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/zh/author/zhaoyiqin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/zh/author/zhaoyiqin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>I am a senior undergaduate software engineeering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao. I am also a former Baidu FE intern at DuerOS department, Baidu, Inc. My mentor is Sen Li and Yangyang Zhang, they are smart and respectful engineers. My research at TJNU is about applied machine learning</description>
     </item>
     
   </channel>

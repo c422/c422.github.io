@@ -13,22 +13,56 @@
     
     
     <item>
-      <title>[Project]  Hierachical Attention for Speech Emotion Recognition</title>
-      <link>/zh/accomplishment/jiaojinlong-pro-nationalutp/</link>
+      <title>[Project] Hierachical Attention for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/pro-jiaojinlong-nationalutp/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/zh/accomplishment/jiaojinlong-pro-nationalutp/</guid>
+      <guid>/zh/accomplishment/pro-jiaojinlong-nationalutp/</guid>
       <description>&lt;p&gt;Introduction: Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Some Post</title>
-      <link>/zh/post/samplepost/</link>
+      <title>[分享] 编程语言</title>
+      <link>/zh/post/keynote-20190510-zhaoyiqin/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/keynote-20190510-zhaoyiqin/</guid>
+      <description>
+
+&lt;p&gt;每周分析，主题: &lt;strong&gt;编程语言&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;白板板书&#34;&gt;白板板书&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-10-zhaoyiqin/2019-05-10-zhaoyiqin/1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-10-zhaoyiqin/2019-05-10-zhaoyiqin/2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Scholarship] Wang Kechang Culture and Technology Innovation Scholarship (&lt;1%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-sch-wangkc/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-sch-wangkc/</guid>
+      <description>&lt;p&gt;TODO: Add details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Publication] Deep Spectrum Feature Representations for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/zhaoyiqin-pub-deepsp/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/post/samplepost/</guid>
-      <description></description>
+      <guid>/zh/accomplishment/zhaoyiqin-pub-deepsp/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3267935.3267948&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Automatically detecting emotional state in human speech, which plays an effective role in areas of human machine interactions, has been a difficult task for machine learning algorithms. Previous work for emotion recognition have mostly focused on the extraction of carefully hand-crafted and tailored features. Recently, spectrogram representations of emotion speech have achieved competitive per- formance for automatic speech emotion recognition. In this work we propose a method to tackle the problem of deep features, herein denoted as deep spectrum features, extraction from the spectrogram by leveraging Attention-based Bidirectional Long Short-Term Mem- ory Recurrent Neural Networks with fully convolutional networks. The learned deep spectrum features are then fed into a deep neural network (DNN) to predict the final emotion. The proposed model is then evaluated on the Interactive Emotional Dyadic Motion Cap- ture (IEMOCAP) dataset to validate its effectiveness. Promising results indicate that our deep spectrum representations extracted from the proposed model perform the best, 65.2% for weighted accuracy and 68.0% for unweighted accuracy when compared to other existing methods. We then compare the performance of our deep spectrum features with two standard acoustic feature repre- sentations for speech-based emotion recognition. When combined with a support vector classifier, the performance of the deep feature representations extracted are comparable with the conventional features. Moreover, we also investigate the impact of different fre- quency resolutions of the input spectrogram on the performance of the system.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,6 +78,65 @@
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Automatically detecting emotional state in human speech, which plays an effective role in areas of human machine interactions, has been a difficult task for machine learning algorithms. Previous work for emotion recognition have mostly focused on the extraction of carefully hand-crafted and tailored features. Recently, spectrogram representations of emotion speech have achieved competitive per- formance for automatic speech emotion recognition. In this work we propose a method to tackle the problem of deep features, herein denoted as deep spectrum features, extraction from the spectrogram by leveraging Attention-based Bidirectional Long Short-Term Mem- ory Recurrent Neural Networks with fully convolutional networks. The learned deep spectrum features are then fed into a deep neural network (DNN) to predict the final emotion. The proposed model is then evaluated on the Interactive Emotional Dyadic Motion Cap- ture (IEMOCAP) dataset to validate its effectiveness. Promising results indicate that our deep spectrum representations extracted from the proposed model perform the best, 65.2% for weighted accuracy and 68.0% for unweighted accuracy when compared to other existing methods. We then compare the performance of our deep spectrum features with two standard acoustic feature repre- sentations for speech-based emotion recognition. When combined with a support vector classifier, the performance of the deep feature representations extracted are comparable with the conventional features. Moreover, we also investigate the impact of different fre- quency resolutions of the input spectrogram on the performance of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Publication] Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition</title>
+      <link>/zh/accomplishment/zhaoyiqin-pub-exploringst/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-pub-exploringst/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Automatic emotion recognition from speech, which is an important and challenging task in the field of affective computing, heavily relies on the effectiveness of the speech features for classification. Previous approaches to emotion recognition have mostly focused on the extraction of carefully hand-crafted features. How to model spatio-temporal dynamics for speech emotion recognition effectively is still under active investigation. In this paper, we propose a method to tackle the problem of emotional relevant feature extraction from speech by leveraging Attention-based Bidirectional Long Short-Term Memory Recurrent Neural Networks with fully convolutional networks in order to automatically learn the best spatio-temporal representations of speech signals. The learned high-level features are then fed into a deep neural network (DNN) to predict the final emotion. The experimental results on the Chinese Natural Audio-Visual Emotion Database (CHEAVD) and the Interactive Emotional Dyadic Motion Capture (IEMOCAP) corpora show that our method provides more accurate predictions compared with other existing emotion recognition algorithms.&lt;/p&gt;
+
+&lt;h1 id=&#34;cite&#34;&gt;Cite&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;@inproceedings{Zhao2018,
+  author={Ziping Zhao and Yu Zheng and Zixing Zhang and Haishuai Wang and Yiqin Zhao and Chao Li},
+  title={Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition},
+  year=2018,
+  booktitle={Proc. Interspeech 2018},
+  pages={272--276},
+  doi={10.21437/Interspeech.2018-1477},
+  url={http://dx.doi.org/10.21437/Interspeech.2018-1477}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Award] National third award on 2017 China Collegiate Computing Contest (Top 6%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-awd-cccc2017/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-awd-cccc2017/</guid>
+      <description>&lt;p&gt;TODO: Add details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Project] Depression Detection Software Based on Speech and Tune</title>
+      <link>/zh/accomplishment/zhaoyiqin-pro-nationalutp/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-pro-nationalutp/</guid>
+      <description>&lt;p&gt;TODO: Add details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Award] National third award on 2016 China Collegiate Computing Contest (Top 10%)</title>
+      <link>/zh/accomplishment/zhaoyiqin-awd-cccc2016/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/zhaoyiqin-awd-cccc2016/</guid>
+      <description>&lt;p&gt;This contest is held by Zhejiang University and Apple, Inc to all students over the great China area.&lt;/p&gt;
 </description>
     </item>
     
