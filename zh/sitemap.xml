@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/zh/accomplishment/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/accomplishment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/accomplishment/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/authors/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +20,7 @@
   
   <url>
     <loc>/zh/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -46,6 +31,67 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/keynote-20190516-wangpenghao/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/keynote-20190516-wangpenghao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/keynote-20190516-wangpenghao/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/wangpenghao/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/wangpenghao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/wangpenghao/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/accomplishment/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/"
                 />
   </url>
   
@@ -115,21 +161,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/authors/jiaojinlong/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/post/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/"
                 />
   </url>
   

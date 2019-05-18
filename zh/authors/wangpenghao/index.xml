@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on C422</title>
-    <link>/zh/post/</link>
-    <description>Recent content in Posts on C422</description>
+    <title>wangpenghao on C422</title>
+    <link>/zh/authors/wangpenghao/</link>
+    <description>Recent content in wangpenghao on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/zh/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/authors/wangpenghao/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/zh/post/keynote-20190516-wangpenghao/</guid>
       <description>每周分享，主题论文写作与可持续集成</description>
-    </item>
-    
-    <item>
-      <title>[分享] 编程语言</title>
-      <link>/zh/post/keynote-20190509-zhaoyiqin/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/post/keynote-20190509-zhaoyiqin/</guid>
-      <description>每周分享，主题编程语言</description>
     </item>
     
   </channel>

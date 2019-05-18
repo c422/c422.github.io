@@ -7,10 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Keynote] Paper writing and CI</title>
+      <link>/post/keynote-20190516-wangpenghao/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keynote-20190516-wangpenghao/</guid>
+      <description>
+
+&lt;p&gt;Weekly keynote, topic: &lt;strong&gt;Paper writing and CI&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ppt&#34;&gt;PPT&lt;/h2&gt;
+
+&lt;p&gt;The topic I shared is Paper writing and Continuous Integration.Please refer to the attachment for details： &lt;a href=&#34;https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-16-wangpenghao/学习小结0516-王鹏浩.pptx&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>[Project]  Hierachical Attention for Speech Emotion Recognition</title>
