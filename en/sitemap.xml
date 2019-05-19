@@ -431,69 +431,6 @@
   </url>
   
   <url>
-    <loc>/accomplishment/wangpenghao-pub-designan/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/accomplishment/wangpenghao-pub-designan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/accomplishment/wangpenghao-pub-designan/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/credit-evaluation/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/credit-evaluation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/credit-evaluation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/healthy-aged-service/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/healthy-aged-service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/healthy-aged-service/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/machine-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/machine-learning/"
-                />
-  </url>
-  
-  <url>
     <loc>/accomplishment/zhaoyiqin-pub-exploringst/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -592,20 +529,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/author/lisen/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/wangpenghao/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/wangpenghao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/wangpenghao/"
                 />
   </url>
   
