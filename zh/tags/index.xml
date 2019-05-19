@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Credit Evaluation System</title>
+      <link>/zh/tags/credit-evaluation-system/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/credit-evaluation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pension</title>
+      <link>/zh/tags/pension/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/pension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/zh/tags/publication/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>National</title>
@@ -67,11 +94,20 @@
     </item>
     
     <item>
-      <title>Publication</title>
-      <link>/zh/tags/publication/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Aircraft</title>
+      <link>/zh/tags/aircraft/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/publication/</guid>
+      <guid>/zh/tags/aircraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CADC·2018</title>
+      <link>/zh/tags/cadc2018/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/cadc2018/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/accomplishment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Publication] Design and Implementation of Credit Evaluation System for Healthy Aged Service</title>
+      <link>/accomplishment/lisen-pub-pension/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/lisen-pub-pension/</guid>
+      <description>Oral paper on 2019 IEEE SERVICES WORKSHOP ON HEALTHCARE SERVICES.</description>
+    </item>
     
     <item>
       <title>[Project]  Hierachical Attention for Speech Emotion Recognition</title>
@@ -19,6 +28,15 @@
       
       <guid>/accomplishment/jiaojinlong-pro-nationalutp/</guid>
       <description>Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.</description>
+    </item>
+    
+    <item>
+      <title>[Project] Research on Supporting Theory and Innovation Model of Cross-border Service for Healthy Elders</title>
+      <link>/accomplishment/lisen-pro-pension/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/lisen-pro-pension/</guid>
+      <description>In view of the problems existing in the credit information of China&amp;rsquo;s old-age care industry, in order to establish a sound old-age service credit information system and guarantee the quality of old-age service, the standard of pension service credit standard and the trust mechanism and reputation algorithm based on old-age service are formulated for development. The Health Support + “Integrated Support Platform provides theoretical support for credit assessment and provides a comprehensive solution for the credit problems in the aged care service. The project is supported by the National Key Basic Research Development Program (973 Program).</description>
     </item>
     
     <item>
@@ -37,6 +55,15 @@
       
       <guid>/accomplishment/zhaoyiqin-pub-deepsp/</guid>
       <description>Oral paper on ACM Multimedia 2018 ASMMC-MMAC workshop.</description>
+    </item>
+    
+    <item>
+      <title>[Award] CADC 2018 China Aeromodelling Design Challenge · The First Prize</title>
+      <link>/accomplishment/lisen-awd-cadc/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/lisen-awd-cadc/</guid>
+      <description>This contest is held at Nanjing,China , Inc to all students over the great China area.</description>
     </item>
     
     <item>

@@ -29,6 +29,20 @@
     </item>
     
     <item>
+      <title>[ 论文 ] Design and Implementation of Credit Evaluation System for Healthy Aged Service</title>
+      <link>/zh/accomplishment/lisen-pub-pension/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/lisen-pub-pension/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;We introduce Collie，an online platform to assess the quality of nursing home service powered by machine learning, which enables user to choose a serial of selected algorithms for different demand. Previous research has proposed the point on how to measure the quality of nursing home service. But traditional service relies on manual investigation which present serval problems like the process of rating quality is complex and insufficient. For the above problems, Collie focus on supporting users to assess the quality of nursing home service. Within the service assessment, we develop a serial of algorithms to deal with different dataset. But more importantly, different database has different features, a group of algorithms is not enough to fulfill users demand. Therefore, we propose a system which enables users choose highly competitive algorithms to solve their problem. To support the core idea, we provide a high performance infrastructure features asynchronous I/O, fast and error tolerant data pipeline. Through a series of experiments, we show that our system outperforms the baseline significantly in terms of system performance, algorithm accuracy. Promising result has been retrieved from our algorithm which indices MAE of 0.5 at sample dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[Project] Hierachical Attention for Speech Emotion Recognition</title>
       <link>/zh/accomplishment/pro-jiaojinlong-nationalutp/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
@@ -52,6 +66,16 @@
 
 &lt;p&gt;&lt;img src=&#34;https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-09-zhaoyiqin/1.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-09-zhaoyiqin/2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ 项目 ] 健康养老跨界服务的支撑理论与创新模式研究</title>
+      <link>/zh/accomplishment/lisen-pro-pension/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/lisen-pro-pension/</guid>
+      <description>&lt;p&gt;我们在李超老师的带领下，针对目前我国养老行业在征信方面存在的问题，以建立健全养老服务征信体系，保障养老服务质量为目的，制定养老服务征信标准规范和基于养老服务的信任机制与信誉算法，为开发“健康养老+”集成支撑平台提供征信评估方面的理论支持，为养老服务中存在的征信问题提供全方位的解决方案。并且本项目受到国家重点基础研究发展计划（973计划）的支持。&lt;/p&gt;
 </description>
     </item>
     
@@ -94,6 +118,16 @@
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Automatically detecting emotional state in human speech, which plays an effective role in areas of human machine interactions, has been a difficult task for machine learning algorithms. Previous work for emotion recognition have mostly focused on the extraction of carefully hand-crafted and tailored features. Recently, spectrogram representations of emotion speech have achieved competitive per- formance for automatic speech emotion recognition. In this work we propose a method to tackle the problem of deep features, herein denoted as deep spectrum features, extraction from the spectrogram by leveraging Attention-based Bidirectional Long Short-Term Mem- ory Recurrent Neural Networks with fully convolutional networks. The learned deep spectrum features are then fed into a deep neural network (DNN) to predict the final emotion. The proposed model is then evaluated on the Interactive Emotional Dyadic Motion Cap- ture (IEMOCAP) dataset to validate its effectiveness. Promising results indicate that our deep spectrum representations extracted from the proposed model perform the best, 65.2% for weighted accuracy and 68.0% for unweighted accuracy when compared to other existing methods. We then compare the performance of our deep spectrum features with two standard acoustic feature repre- sentations for speech-based emotion recognition. When combined with a support vector classifier, the performance of the deep feature representations extracted are comparable with the conventional features. Moreover, we also investigate the impact of different fre- quency resolutions of the input spectrogram on the performance of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[ 奖项 ] 2018中国国际飞行器设计挑战赛 · 一等奖</title>
+      <link>/zh/accomplishment/lisen-awd-cadc/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/lisen-awd-cadc/</guid>
+      <description>&lt;p&gt;中国国际飞行器设计挑战赛 暨 科研类全国航空航天模型锦标赛，科研类全国航空航天模型锦标赛由国家体育总局、教育部和科技部联合主办。本赛事尝试以体育竞赛为平台，结合国防、国民经济建设以及国家重点科研任务，通过参赛选手自行制作航空航天模型进行缩比验证飞行，检验创新作品的可行性、可靠性和实用性，进一步挖掘、拓展高校学生及科研院所相关人员的科技创新能力，为航空工业和国防建设搭建一个发掘创新后备人才、检验创新作品的平台。&lt;/p&gt;
 </description>
     </item>
     

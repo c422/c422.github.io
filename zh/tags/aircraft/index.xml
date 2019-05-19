@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aircraft on C422</title>
+    <link>/zh/tags/aircraft/</link>
+    <description>Recent content in Aircraft on C422</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>C422 &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/zh/tags/aircraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[ 奖项 ] 2018中国国际飞行器设计挑战赛 · 一等奖</title>
+      <link>/zh/accomplishment/lisen-awd-cadc/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/lisen-awd-cadc/</guid>
+      <description>中国国际飞行器设计挑战赛 暨 科研类全国航空航天模型锦标赛，科研类全国航空航天模型锦标赛由国家体育总局、教育部和科技部联合主办。本赛事尝试以体育竞赛为平台，结合国防、国民经济建设以及国家重点科研任务，通过参赛选手自行制作航空航天模型进行缩比验证飞行，检验创新作品的可行性、可靠性和实用性，进一步挖掘、拓展高校学生及科研院所相关人员的科技创新能力，为航空工业和国防建设搭建一个发掘创新后备人才、检验创新作品的平台。</description>
+    </item>
+    
+  </channel>
+</rss>
