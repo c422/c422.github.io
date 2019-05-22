@@ -111,5 +111,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Deep Learning</title>
+      <link>/zh/tags/deep-learning/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeChat applet</title>
+      <link>/zh/tags/wechat-applet/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/wechat-applet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeCaht applet</title>
+      <link>/zh/tags/wecaht-applet/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/wecaht-applet/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

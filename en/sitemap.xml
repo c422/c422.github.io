@@ -431,6 +431,74 @@
   </url>
   
   <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/wechat-applet/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/wechat-applet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/wechat-applet/"
+                />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/yangjin-awd-fccompete2018/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yangjin/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/yangjin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/yangjin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/yangjin-pro-nationalutp/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/yangjin-pro-nationalutp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/yangjin-pro-nationalutp/"
+                />
+  </url>
+  
+  <url>
     <loc>/accomplishment/zhaoyiqin-pub-exploringst/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -533,6 +601,20 @@
   </url>
   
   <url>
+    <loc>/author/yangjin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/yangjin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/yangjin/"
+                />
+  </url>
+  
+  <url>
     <loc>/author/zhaoyiqin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -603,6 +685,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/jinyang/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/jinyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jinyang/"
                 />
   </url>
   
