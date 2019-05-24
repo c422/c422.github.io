@@ -617,6 +617,20 @@
   </url>
   
   <url>
+    <loc>/zh/author/wangpenghao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/wangpenghao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/wangpenghao/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/author/yangjin/</loc>
     <xhtml:link
                 rel="alternate"
