@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>jiaojinlong</title>
+      <link>/zh/authors/jiaojinlong/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/authors/jiaojinlong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>wangpenghao</title>
@@ -27,15 +36,6 @@
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/zh/authors/lisen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jiaojinlong</title>
-      <link>/zh/authors/jiaojinlong/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/authors/jiaojinlong/</guid>
       <description></description>
     </item>
     

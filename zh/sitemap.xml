@@ -4,7 +4,7 @@
   
   <url>
     <loc>/zh/authors/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>/zh/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -36,7 +36,7 @@
   
   <url>
     <loc>/zh/post/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,6 +46,37 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/keynote-20190525-jiaojinlong/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/keynote-20190525-jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/keynote-20190525-jiaojinlong/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/jiaojinlong/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/jiaojinlong/"
                 />
   </url>
   
@@ -234,22 +265,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/accomplishment/jiaojinlong-pro-nationalutp/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/authors/jiaojinlong/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/jiaojinlong/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/jiaojinlong/"
                 />
   </url>
   

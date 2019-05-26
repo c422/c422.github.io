@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Keynote] Research share</title>
+      <link>/post/keynote-20190525-jiaojinlong/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keynote-20190525-jiaojinlong/</guid>
+      <description>Weekly keynote, topic Research share.</description>
+    </item>
     
     <item>
       <title>[Keynote] Paper writing and CI</title>
