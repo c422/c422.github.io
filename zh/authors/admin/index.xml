@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on C422</title>
+    <title>C422</title>
     <link>/zh/authors/admin/</link>
-    <description>Recent content in admin on C422</description>
+    <description>Recent content on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>/zh/author/admin/</link>
+      <link>/zh/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/author/admin/</guid>
+      <guid>/zh/authors/admin/</guid>
       <description>我们是天津师范大学计算机与信息工程学院C422 “博创共享” 大学生创新创业工作室。我们的成员大多是我校本科生。我们的活动立足于创新发展、学术研</description>
     </item>
     

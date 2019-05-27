@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on C422</title>
+    <title>C422</title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on C422</description>
+    <description>Recent content on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>/author/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>We are C422 studio at Department of Computer and Information Engineering, Tianjin Normal University. Our community members mostly came from undergraduate students at our collage. Our activities are rooted in the combination of creativity development, academic research and more advanced technologies.
 To accomplish this mission, we aim for technologies, design and high level research by a constructive, positive, innovative-driven attitude in all the work we undertake.</description>
     </item>

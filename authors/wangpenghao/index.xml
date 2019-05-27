@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wangpenghao on C422</title>
+    <title>C422</title>
     <link>/authors/wangpenghao/</link>
-    <description>Recent content in wangpenghao on C422</description>
+    <description>Recent content on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
@@ -32,10 +32,10 @@
     
     <item>
       <title></title>
-      <link>/author/wangpenghao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/authors/wangpenghao/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/author/wangpenghao/</guid>
+      <guid>/authors/wangpenghao/</guid>
       <description>I am a sophomore major in software engineering at Tianjin Normal University, Tianjin, China. I am a core member of iOS Club. Besides, I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.</description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jiaojinlong on C422</title>
+    <title>C422</title>
     <link>/authors/jiaojinlong/</link>
-    <description>Recent content in jiaojinlong on C422</description>
+    <description>Recent content on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
@@ -41,10 +41,10 @@
     
     <item>
       <title></title>
-      <link>/author/jiaojinlong/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/authors/jiaojinlong/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/author/jiaojinlong/</guid>
+      <guid>/authors/jiaojinlong/</guid>
       <description>I am an undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a core member of iOS Club and I have attended Apple Summer Camp Nanjing of China, 2018. Additionaly, I am a key member of the Cognitive and Affective Computing Lab from Center for Affective Intelligence International Studies at my TJNU, advised by Prof. Ziping Zhao.
 Currently participating in the project development of “support theory and innovation model of healthy pension cross-border service”.</description>
     </item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zhaoyiqin on C422</title>
+    <title>C422</title>
     <link>/zh/authors/zhaoyiqin/</link>
-    <description>Recent content in zhaoyiqin on C422</description>
+    <description>Recent content on C422</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
@@ -77,10 +77,10 @@
     
     <item>
       <title></title>
-      <link>/zh/author/zhaoyiqin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/zh/authors/zhaoyiqin/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/zh/author/zhaoyiqin/</guid>
+      <guid>/zh/authors/zhaoyiqin/</guid>
       <description>I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development. My research at TJNU is focused on applied machine learning and affective computing. If you are</description>
     </item>
     

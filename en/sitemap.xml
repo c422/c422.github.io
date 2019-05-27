@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/jiaojinlong/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jiaojinlong/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -65,18 +80,17 @@
   </url>
   
   <url>
-    <loc>/authors/jiaojinlong/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/wangpenghao/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/jiaojinlong/"
+                href="/zh/authors/wangpenghao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/jiaojinlong/"
+                href="/authors/wangpenghao/"
                 />
   </url>
   
@@ -96,18 +110,17 @@
   </url>
   
   <url>
-    <loc>/authors/wangpenghao/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/lisen/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/wangpenghao/"
+                href="/zh/authors/lisen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/wangpenghao/"
+                href="/authors/lisen/"
                 />
   </url>
   
@@ -206,22 +219,6 @@
   </url>
   
   <url>
-    <loc>/authors/lisen/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/lisen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lisen/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/national/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -269,6 +266,21 @@
   </url>
   
   <url>
+    <loc>/authors/zhaoyiqin/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/zhaoyiqin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/zhaoyiqin/"
+                />
+  </url>
+  
+  <url>
     <loc>/post/keynote-20190509-zhaoyiqin/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -280,22 +292,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/post/keynote-20190509-zhaoyiqin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/zhaoyiqin/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/zhaoyiqin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/zhaoyiqin/"
                 />
   </url>
   
@@ -456,6 +452,21 @@
   </url>
   
   <url>
+    <loc>/authors/yangjin/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/yangjin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/yangjin/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -490,22 +501,6 @@
   <url>
     <loc>/accomplishment/yangjin-awd-fccompete2018/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yangjin/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/yangjin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/yangjin/"
-                />
   </url>
   
   <url>
@@ -584,101 +579,16 @@
   </url>
   
   <url>
-    <loc>/author/admin/</loc>
+    <loc>/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/admin/"
+                href="/zh/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/jiaojinlong/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/jiaojinlong/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/jiaojinlong/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/lisen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/lisen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/lisen/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/wangpenghao/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/wangpenghao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/wangpenghao/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/yangjin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/yangjin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/yangjin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/zhaoyiqin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/zhaoyiqin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/zhaoyiqin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/"
+                href="/authors/admin/"
                 />
   </url>
   
@@ -709,21 +619,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/admin/"
                 />
   </url>
   
