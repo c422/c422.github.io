@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/authors/yangjin/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yangjin/</guid>
+      <description>Now I am studying software engineering at Tianjin Normal University. I have a strong interest in computer programming languages ​​and machine learning models, and like to brainstorm and organize my own knowledge system.
+Competition experience: As a project member, I participated in the tenth section of China University Student Service Outsourcing Innovation and Entrepreneurship Competition. As the project leader, I established Tianjin Normal University School-level Daiso Project.
+Research direction: The main research direction at present is machine learning and computer networks.</description>
+    </item>
     
     <item>
       <title></title>
@@ -51,17 +62,6 @@ Currently participating in the project development of &amp;ldquo;support theory 
       <guid>/authors/zhaoyiqin/</guid>
       <description>I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
 My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/yangjin/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yangjin/</guid>
-      <description>Now I am studying software engineering at Tianjin Normal University. I have a strong interest in computer programming languages ​​and machine learning models, and like to brainstorm and organize my own knowledge system.
-Competition experience: As a project member, I participated in the tenth section of China University Student Service Outsourcing Innovation and Entrepreneurship Competition. As the project leader, I established Tianjin Normal University School-level Daiso Project.
-Research direction: The main research direction at present is machine learning and computer networks.</description>
     </item>
     
     <item>

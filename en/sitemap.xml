@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/jiaojinlong/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <loc>/authors/yangjin/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/jiaojinlong/"
+                href="/zh/authors/yangjin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/jiaojinlong/"
+                href="/authors/yangjin/"
                 />
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +35,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -61,6 +61,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/keynote-20190530-yangjin/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/keynote-20190530-yangjin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/keynote-20190530-yangjin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/jiaojinlong/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/jiaojinlong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jiaojinlong/"
                 />
   </url>
   
@@ -448,21 +478,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/accomplishment/lisen-awd-cadc/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/yangjin/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/yangjin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/yangjin/"
                 />
   </url>
   

@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Keynote] CPU analysis and Software design summary</title>
+      <link>/post/keynote-20190530-yangjin/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keynote-20190530-yangjin/</guid>
+      <description>
+
+&lt;p&gt;Click &lt;a href=&#34;https://cdn.coden.hk/c422/weekly-keynote/2019-5-31-yangjin/5.30工作室分享会.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; and see details.&lt;/p&gt;
+
+&lt;h2 id=&#34;point-out-an-error&#34;&gt;Point out an error&lt;/h2&gt;
+
+&lt;p&gt;For the question that &lt;strong&gt;&amp;ldquo;Why is Thread instead of Process in ‘4 Core 8 Thread&amp;rsquo; ?”&lt;/strong&gt; in PDF&lt;/p&gt;
+
+&lt;p&gt;Firstly，a point should be clearly，which is that &lt;strong&gt;Thread in &amp;lsquo;4 Core 8 Thread&amp;rsquo; is different with Thread in operating system&lt;/strong&gt;.The former refers to the &lt;strong&gt;physical unit&lt;/strong&gt; in the CPU, the latter refers to the &lt;strong&gt;logical unit&lt;/strong&gt; in the operating system, so the problem does not hold!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>[Keynote] Research share</title>

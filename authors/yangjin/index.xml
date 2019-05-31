@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/yangjin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Keynote] CPU analysis and Software design summary</title>
+      <link>/post/keynote-20190530-yangjin/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keynote-20190530-yangjin/</guid>
+      <description>The CPU of hardware analysis and the summary of software design experience in previous time.</description>
+    </item>
     
     <item>
       <title>[Award] National third award on 2018 China Collegiate Computing Contest (Top 10%)</title>
