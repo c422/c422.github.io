@@ -614,6 +614,20 @@
   </url>
   
   <url>
+    <loc>/zh/authors/liujingyu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/liujingyu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/liujingyu/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/categories/</loc>
     <priority>0</priority>
     <xhtml:link

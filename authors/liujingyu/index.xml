@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C422</title>
+    <link>/authors/liujingyu/</link>
+    <description>Recent content on C422</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>C422 &amp;copy; {year}</copyright>
+    
+	<atom:link href="/authors/liujingyu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/liujingyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/liujingyu/</guid>
+      <description>A 2016 undergraduate student major in Computer Science and Technology at Tianjin Normal University. The main research direction: iOS development.
+TJNU iOS Club Technical Lecturer.
+Independent developer of iOS App &amp;ldquo;Get Social&amp;rdquo;.
+Currently participating in the development of the &amp;ldquo;Online Habit Game&amp;rdquo; experimental project at the University of Southern California.
+More information about me: https://fix.moe.</description>
+    </item>
+    
+  </channel>
+</rss>
