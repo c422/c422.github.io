@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/authors/lisen/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lisen/</guid>
+      <description>Sen Li.
+A 2017 undergraduate student in software engineering at Tianjin Normal University.
+A member of the Cognitive and Affective Computing Lab at Tianjin Normal University,advised by Prof. Ziping Zhao.
+Currently participating in the project development of &amp;ldquo;support theory and innovation model of healthy pension cross-border service&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title></title>
@@ -40,18 +52,6 @@ Currently participating in the project development of “support theory and inno
       
       <guid>/authors/wangpenghao/</guid>
       <description>I am a sophomore major in software engineering at Tianjin Normal University, Tianjin, China. I am a core member of iOS Club. Besides, I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/lisen/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lisen/</guid>
-      <description>Sen Li.
-A 2017 undergraduate student in software engineering at Tianjin Normal University.
-A member of the Cognitive and Affective Computing Lab at Tianjin Normal University,advised by Prof. Ziping Zhao.
-Currently participating in the project development of &amp;ldquo;support theory and innovation model of healthy pension cross-border service&amp;rdquo;.</description>
     </item>
     
     <item>

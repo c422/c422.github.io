@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/lisen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Keynote] The knowledge points of Python and Machine Learning</title>
+      <link>/post/keynote-20190606-lisen/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keynote-20190606-lisen/</guid>
+      <description>Python and Machine Learning</description>
+    </item>
     
     <item>
       <title>[Publication] Design and Implementation of Credit Evaluation System for Healthy Aged Service</title>
@@ -42,7 +51,7 @@
     <item>
       <title></title>
       <link>/authors/lisen/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/lisen/</guid>
       <description>Sen Li.

@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/zh/authors/yangjin/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <loc>/zh/authors/lisen/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/yangjin/"
+                href="/authors/lisen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/yangjin/"
+                href="/zh/authors/lisen/"
                 />
   </url>
   
   <url>
     <loc>/zh/authors/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +35,7 @@
   
   <url>
     <loc>/zh/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/zh/post/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,6 +61,36 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/keynote-20190606-lisen/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/keynote-20190606-lisen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/keynote-20190606-lisen/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/yangjin/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/yangjin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/yangjin/"
                 />
   </url>
   
@@ -136,21 +166,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/post/keynote-20190516-wangpenghao/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/authors/lisen/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lisen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/lisen/"
                 />
   </url>
   

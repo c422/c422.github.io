@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/zh/authors/lisen/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/authors/lisen/</guid>
+      <description>李森 天津师范大学软件学院软件工程专业2017级本科生 天津师范大学认知与情感计算研究中心本科生组成员 目前正在参与“健康养老跨界服务的支撑理论与</description>
+    </item>
     
     <item>
       <title></title>
@@ -37,15 +46,6 @@
       
       <guid>/zh/authors/wangpenghao/</guid>
       <description>我是天津师范大学软件工程专业的二年级本科生，天津师范大学IOS Club的核心成员。现于天津师范大学认知与情感计算实验室赵子平导师指导下进行语</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/zh/authors/lisen/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/authors/lisen/</guid>
-      <description>李森 天津师范大学软件学院软件工程专业2017级本科生 天津师范大学认知与情感计算研究中心本科生组成员 目前正在参与“健康养老跨界服务的支撑理论与</description>
     </item>
     
     <item>
