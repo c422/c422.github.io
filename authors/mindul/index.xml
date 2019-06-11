@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mindul on C422</title>
+    <link>/authors/mindul/</link>
+    <description>Recent content in mindul on C422</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>C422 &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/mindul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[ Award ] The Third Prize of the 2018 Xinhuatai Cup Competition for Computer Applications for College Students in Five North China Provinces and Hong Kong, Macao and Taiwan</title>
+      <link>/accomplishment/wangshaowei-awd-xintaihua/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/wangshaowei-awd-xintaihua/</guid>
+      <description>The Computer Application Competition for College Students in the Five Provinces of North China and Hong Kong, Macao and Taiwan is sponsored by the Education Department of the Five Provinces of North China.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on C422</title>
+    <link>/zh/tags/arduino/</link>
+    <description>Recent content in Arduino on C422</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>C422 &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/zh/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[ 奖项 ] 2018“鑫华台杯”华北五省及港澳台大学生计算机应用大赛 三等奖</title>
+      <link>/zh/accomplishment/wangshaowei-awd-xintaihua/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/accomplishment/wangshaowei-awd-xintaihua/</guid>
+      <description>华北五省及港澳台大学生计算机应用大赛由华北五省教育厅主办</description>
+    </item>
+    
+  </channel>
+</rss>

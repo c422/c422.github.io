@@ -58,11 +58,29 @@
     </item>
     
     <item>
+      <title>Arduino</title>
+      <link>/zh/tags/arduino/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Award</title>
       <link>/zh/tags/award/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/zh/tags/award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>鑫华台·2018</title>
+      <link>/zh/tags/%E9%91%AB%E5%8D%8E%E5%8F%B02018/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/%E9%91%AB%E5%8D%8E%E5%8F%B02018/</guid>
       <description></description>
     </item>
     
@@ -108,6 +126,24 @@
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/zh/tags/cadc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>树莓派</title>
+      <link>/zh/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>赛佰特·2018</title>
+      <link>/zh/tags/%E8%B5%9B%E4%BD%B0%E7%89%B92018/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tags/%E8%B5%9B%E4%BD%B0%E7%89%B92018/</guid>
       <description></description>
     </item>
     

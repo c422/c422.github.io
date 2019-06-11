@@ -356,8 +356,24 @@
   </url>
   
   <url>
+    <loc>/tags/arduino/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/arduino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/arduino/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/award/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -369,6 +385,33 @@
                 hreflang="en"
                 href="/tags/award/"
                 />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/wangshaowei-awd-xintaihua/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/wangshaowei-awd-xintaihua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/wangshaowei-awd-xintaihua/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/mindul/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xinhuatai2018/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -493,6 +536,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="/accomplishment/lisen-awd-cadc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/wangshaowei/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/wangshaowei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/wangshaowei/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/cybertcup2018/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/raspberry-pi/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/accomplishment/wangshaowei-awd-cybertcup/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/wangshaowei-awd-cybertcup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/wangshaowei-awd-cybertcup/"
                 />
   </url>
   

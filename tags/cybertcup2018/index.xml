@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CybertCup·2018 on C422</title>
+    <link>/tags/cybertcup2018/</link>
+    <description>Recent content in CybertCup·2018 on C422</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>C422 &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cybertcup2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[ Award ] The Third Prize of the 2018 Cybert Cup National College Students Intelligence Interconnection Innovative Application Design Competition</title>
+      <link>/accomplishment/wangshaowei-awd-cybertcup/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/wangshaowei-awd-cybertcup/</guid>
+      <description>The National College Students Intelligence Interconnection Innovative Application Design Competition is co-sponsored by the Computer Specialty Teaching Steering Committee of the Ministry of Education, the National College Computer Education Research Association and the China Electronics Society.</description>
+    </item>
+    
+  </channel>
+</rss>
