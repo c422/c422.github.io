@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/wangshaowei/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <loc>/authors/liushuxuan/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/wangshaowei/"
+                href="/zh/authors/liushuxuan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/wangshaowei/"
+                href="/authors/liushuxuan/"
                 />
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +35,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -61,6 +61,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/keynote-20190620-liushuxuan/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/keynote-20190620-liushuxuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/keynote-20190620-liushuxuan/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/wangshaowei/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/wangshaowei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/wangshaowei/"
                 />
   </url>
   
