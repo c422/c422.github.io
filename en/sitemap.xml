@@ -3,23 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/liushuxuan/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>/authors/jiaojinlong/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/liushuxuan/"
+                href="/zh/authors/jiaojinlong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/liushuxuan/"
+                href="/authors/jiaojinlong/"
+                />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/"
                 />
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -34,8 +49,24 @@
   </url>
   
   <url>
+    <loc>/tags/award/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/award/"
+                />
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -46,6 +77,84 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/cccc/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/cccc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/cccc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/data-mining/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/data-mining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/data-mining/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/accomplishment/jiaojinlong-awd-cccc2019/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/accomplishment/jiaojinlong-awd-cccc2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/accomplishment/jiaojinlong-awd-cccc2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/liushuxuan/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/liushuxuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/liushuxuan/"
                 />
   </url>
   
@@ -170,21 +279,6 @@
   </url>
   
   <url>
-    <loc>/authors/jiaojinlong/</loc>
-    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/jiaojinlong/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/jiaojinlong/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/keynote-20190525-jiaojinlong/</loc>
     <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -226,21 +320,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/post/keynote-20190516-wangpenghao/"
-                />
-  </url>
-  
-  <url>
-    <loc>/accomplishment/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/accomplishment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/accomplishment/"
                 />
   </url>
   
@@ -289,22 +368,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
                 />
   </url>
   
@@ -432,22 +495,6 @@
   </url>
   
   <url>
-    <loc>/tags/award/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/award/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/award/"
-                />
-  </url>
-  
-  <url>
     <loc>/accomplishment/wangshaowei-awd-xintaihua/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -472,22 +519,6 @@
     <loc>/tags/xinhuatai2018/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cccc/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/cccc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/cccc/"
-                />
   </url>
   
   <url>

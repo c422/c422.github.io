@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/accomplishment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Award] National third award on 2019 China Collegiate Computing Contest (Top 2.5%)</title>
+      <link>/accomplishment/jiaojinlong-awd-cccc2019/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/accomplishment/jiaojinlong-awd-cccc2019/</guid>
+      <description>This contest is held by Tsinghua University, Nankai University and Bytes Bounce Company, Inc to all students over the great China area.</description>
+    </item>
     
     <item>
       <title>[Publication] Design and Implementation of Credit Evaluation System for Healthy Aged Service</title>

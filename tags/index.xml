@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Award</title>
+      <link>/tags/award/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCCC</title>
+      <link>/tags/cccc/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Credit Evaluation System</title>
@@ -67,29 +94,11 @@
     </item>
     
     <item>
-      <title>Award</title>
-      <link>/tags/award/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/award/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>xinhuatai·2018</title>
       <link>/tags/xinhuatai2018/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/xinhuatai2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CCCC</title>
-      <link>/tags/cccc/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cccc/</guid>
       <description></description>
     </item>
     

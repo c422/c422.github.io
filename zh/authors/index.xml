@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>C422 &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/zh/authors/jiaojinlong/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/authors/jiaojinlong/</guid>
+      <description>我是天津师范大学软件工程专业二年级本科生，作为天津师范大学 iOS Club 核心成员参加了 2018 Nanjing Apple Summer Camp. 目前在天津师范大学情感智能国际研究中心认知与情感计算课</description>
+    </item>
     
     <item>
       <title></title>
@@ -46,15 +55,6 @@
       
       <guid>/zh/authors/yangjin/</guid>
       <description>现就读于天津师范大学软件工程专业。我对计算机编程语言和机器学习模型有着浓厚的兴趣，且日常喜欢头脑风暴和整理自身的知识体系。 竞赛经历:作为项目</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/zh/authors/jiaojinlong/</link>
-      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/authors/jiaojinlong/</guid>
-      <description>我是天津师范大学软件工程专业二年级本科生，作为天津师范大学 iOS Club 核心成员参加了 2018 Nanjing Apple Summer Camp. 目前在天津师范大学情感智能国际研究中心认知与情感计算课</description>
     </item>
     
     <item>
